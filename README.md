@@ -4,7 +4,7 @@ I'm a finance operator by background (CFO, 8+ years) who got obsessed with what 
 
 **What I'm building:**
 
-- 🛰️ **[SkyYield](https://skyyield.io)** — WiFi-offload monetization platform. Integrates AT&T + T-Mobile carrier APIs with venue WiFi infrastructure. Live across Southern California venues.
+- 🛰️ **[SkyYield](https://skyyield.io)** — WiFi-offload monetization platform. Integrates AT&T + T-Mobile carrier APIs with venue WiFi infrastructure. Live across Southern California, Tennessee, and Georgia venues.
 - 🔎 **[Verdica](https://verdica-score.com)** — Unified entity-scoring SaaS covering 4M+ entities across four federal datasets (FMCSA, EPA ECHO, CMS, SEC Form ADV). Buyers use the scores to qualify counterparties.
 - 🏗️ **Stack SaaS Family** — 10-site vertical-SaaS portfolio on a shared publishing control plane.
 
